@@ -1,0 +1,36 @@
+.body{
+    display: flex;
+    margin: auto;
+}
+.all{
+    width: 80%;
+    height: 80%;
+    padding: 5%;
+    padding-top: 4%;
+.full{
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    background-color: rgb(228, 228, 255);
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    padding: 15%;
+    justify-content: center;
+    align-items: center;
+
+.two {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    padding: 10%;
+    background-color:beige;
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+}}
